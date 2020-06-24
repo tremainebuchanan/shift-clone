@@ -1,0 +1,17 @@
+{
+  "name": "shift-clone",
+  "version": "1.0.0",
+  "description": "Shift Electron clone",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
